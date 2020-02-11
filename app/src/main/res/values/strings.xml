@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loginmsg1">Login Successful</string>
+    <string name="loginmsg2">Login Failed</string>
+    <string name="title">TITLE</string>
+    <string name="text">YOUR NOTE HERE...</string>
+    <string name="savenote">save note</string>
+    <string name="logout">LOGOUT</string>
+    <string name="new_note">New Note</string>
+    <string name="sync">Sync Manually</string>
+    <string name="errupload">Oooops, Upload Failed</string>
+    <string name="NEW_NOTE">NEW_NOTE</string>
+    <string name="errinput">Please enter something!</string>
+    <string name="KEY_FOR_USER_TOKEN">KEY_FOR_USER</string>
+    <string name="USER_LASTSYNC">LASTSYNC</string>
+    <string name="syncmsg">Notes synced sucessfully!</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notizen</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="login">Anmelden</string>
+    <string name="loginmsg1">Anmeldung Erfolgreich!</string>
+    <string name="loginmsg2">Anmeldung Fehlgeschlagen!</string>
+    <string name="title">Titel</string>
+    <string name="text">Deine Notiz hier...</string>
+    <string name="savenote">Notiz speichern</string>
+    <string name="logout">Abmelden</string>
+    <string name="new_note">Neue Notiz</string>
+    <string name="sync">Manuell Synchronisieren</string>
+    <string name="errupload">Upload Fehlgeschlagen</string>
+    <string name="NEW_NOTE">NEW_NOTE</string>
+    <string name="errinput">Bitte etwas eingeben!</string>
+    <string name="USER_LASTSYNC">LASTSYNC</string>
+    <string name="syncmsg">Notizen Synchronisiert!</string>
+</resources>
